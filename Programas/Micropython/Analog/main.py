@@ -13,7 +13,7 @@ def leer():
      print(res)
 
 def led_con_parpadeo_y_lectura():
-     for i in range(1):
+     for i in range(3):
         print(i)
         i += 1
         led.high()
@@ -44,9 +44,11 @@ def comprueba_estado_pulsador_digital():
 if __name__ == '__main__':
 #     leer()
 #     pwm_led()
-     while (termina == 1):
-          termina = finish.value()
-          control_led_pwm_potenciometro()
+     led_con_parpadeo_y_lectura()
+#     comprueba_estado_pulsador_digital()
+#     while (termina == 1):
+#          termina = finish.value()
+#          control_led_pwm_potenciometro()
 
 
 
