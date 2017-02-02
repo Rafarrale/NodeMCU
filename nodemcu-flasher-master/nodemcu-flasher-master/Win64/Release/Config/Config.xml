@@ -22,7 +22,7 @@
   </Data>
   <Data name="FrameConfigLine1.FilePath">
     <Type>String</Type>
-    <Value>C:\Users\Rafa\Downloads\nodemcu_float_0.9.6-dev_20150704.bin</Value>
+    <Value>INTERNAL://NODEMCU</Value>
   </Data>
   <Data name="FrameConfigLine1.Offset">
     <Type>String</Type>

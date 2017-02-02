@@ -1,0 +1,12 @@
+NODEMCU ESP12 	LUA 	Descripción 	Arduino 
+20 - 	TX 	GPIO1 			Digital 1 
+28 – 	D4 	GPIO2 			Digital 2 
+21 – 	RX 	GPIO3 			Digital 3 
+30 – 	D2 	GPIO4			Digital 4 
+31 – 	D1 	GPIO5 			Digital 5 
+24 – 	D6 	GPIO12			Digital 12 
+23 – 	D7 	GPIO13 			Digital 13 
+25 – 	D5 	GPIO14 			Digital 14 
+22 – 	D8 	GPIO15 			Digital 15 
+32 – 	D0 	GPIO16 – USER – WAKE 	Digital 16 
+01 – 	A0 	ADC0 - TOUT 		Analog A0 
